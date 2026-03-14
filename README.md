@@ -181,23 +181,35 @@ Os projetos simulam **problemas reais enfrentados por empresas**, permitindo apl
 
 # 📄 Currículo
 
-Meu currículo pode ser acessado no link abaixo:
+📥 **Clique no botão abaixo para visualizar ou baixar meu currículo**
 
-📥
-cv/Nayara_Rocha_Vasselechen_Data_Analyst_CV.pdf
+<p align="center">
+
+<a href="https://github.com/nayararv/data-analytics-portfolio/blob/main/cv/Nayara_Rocha_Vasselechen_Data_Analyst_CV.pdf">
+<img src="https://img.shields.io/badge/📄%20Baixar%20Currículo-2ea44f?style=for-the-badge"/>
+</a>
+
+</p>
 
 ---
 
 # 📬 Contato
 
-**LinkedIn**
+📫 **Você pode entrar em contato comigo através dos botões abaixo**
 
-https://www.linkedin.com/in/nayararv
+<p align="center">
 
-**Email**
+<a href="https://www.linkedin.com/in/nayararv">
+<img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-[engenheiranay@gmail.com](mailto:engenheiranay@gmail.com)
+<a href="mailto:engenheiranay@gmail.com">
+<img src="https://img.shields.io/badge/Email-Enviar%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
 ⭐ Obrigada por visitar meu portfólio.
+
