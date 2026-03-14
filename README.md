@@ -195,21 +195,20 @@ Os projetos simulam **problemas reais enfrentados por empresas**, permitindo apl
 
 # 📬 Contato
 
-📫 **Você pode entrar em contato comigo através dos botões abaixo**
+🔗 **Clique no botão abaixo para acessar meu LinkedIn**
 
 <p align="center">
 
 <a href="https://www.linkedin.com/in/nayararv">
-<img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:engenheiranay@gmail.com">
-<img src="https://img.shields.io/badge/Email-Enviar%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/💼%20Abrir%20LinkedIn-0A66C2?style=for-the-badge"/>
 </a>
 
 </p>
 
+📧 **Email**
+
+[engenheiranay@gmail.com](mailto:engenheiranay@gmail.com)
+
 ---
 
 ⭐ Obrigada por visitar meu portfólio.
-
