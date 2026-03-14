@@ -200,7 +200,8 @@ Os projetos simulam **problemas reais enfrentados por empresas**, permitindo apl
 <p align="center">
 
 <a href="https://www.linkedin.com/in/nayararv">
-<img src="https://img.shields.io/badge/💼%20Abrir%20LinkedIn-2ea44f?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/💼%20LinkedIn-2ea44f?style=for-the-badge"/>
+
 </a>
 
 <a href="https://wa.me/5521996641020">
