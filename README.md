@@ -205,7 +205,8 @@ Os projetos simulam **problemas reais enfrentados por empresas**, permitindo apl
 </a>
 
 <a href="https://wa.me/5521996641020">
-<img src="https://img.shields.io/badge/💬%20WhatsApp-2ea44f?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+<img src="https://img.shields.io/badge/WhatsApp-2ea44f?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+
 </a>
 
 </p>
