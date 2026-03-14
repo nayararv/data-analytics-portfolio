@@ -195,12 +195,16 @@ Os projetos simulam **problemas reais enfrentados por empresas**, permitindo apl
 
 # 📬 Contato
 
-🔗 **Clique no botão abaixo para acessar meu LinkedIn**
+🔗 **Clique nos botões abaixo para entrar em contato**
 
 <p align="center">
 
 <a href="https://www.linkedin.com/in/nayararv">
-<img src="https://img.shields.io/badge/💼%20Abrir%20LinkedIn-0A66C2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/💼%20Abrir%20LinkedIn-2ea44f?style=for-the-badge"/>
+</a>
+
+<a href="https://wa.me/5521996641020">
+<img src="https://img.shields.io/badge/💬%20WhatsApp-2ea44f?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
 
 </p>
@@ -212,3 +216,4 @@ Os projetos simulam **problemas reais enfrentados por empresas**, permitindo apl
 ---
 
 ⭐ Obrigada por visitar meu portfólio.
+
