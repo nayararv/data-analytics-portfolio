@@ -84,7 +84,7 @@ Essa estrutura permite analisar dados de vendas sob diferentes perspectivas.
 
 Apresenta os principais indicadores de desempenho comercial da empresa.
 
-![Visão Geral](images/01_pagina_visao_geral.png)
+![Visão Geral](images/01_pagina_visao_geral_dash_vendas.png)
 
 ---
 
@@ -92,7 +92,7 @@ Apresenta os principais indicadores de desempenho comercial da empresa.
 
 Permite identificar os produtos mais vendidos e mais lucrativos.
 
-![Produtos](images/02_pagina_produtos.png)
+![Produtos](images/02_pagina_analise_de_produtos_dash_vendas.png)
 
 ---
 
@@ -100,7 +100,7 @@ Permite identificar os produtos mais vendidos e mais lucrativos.
 
 Mostra o desempenho individual dos vendedores.
 
-![Vendedores](images/03_pagina_vendedores.png)
+![Vendedores](images/03_pagina_analise_de_vendedores_dash_vendas.png)
 
 ---
 
@@ -108,7 +108,7 @@ Mostra o desempenho individual dos vendedores.
 
 Análise detalhada das vendas por cliente, produto e período.
 
-![Detalhamento](images/04_pagina_detalhamento.png)
+![Detalhamento](images/04_pagina_detalhamento_de_vendas_dash_vendas.png)
 
 ---
 
@@ -116,7 +116,7 @@ Análise detalhada das vendas por cliente, produto e período.
 
 Página dedicada à análise comparativa entre vendas realizadas e metas comerciais.
 
-![Análise Estratégica](images/05_pagina_analise_estrategica.png)
+![Análise Estratégica](images/05_pagina_analise_estrategica_dash_vendas.png)
 
 ---
 
