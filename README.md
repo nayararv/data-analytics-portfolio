@@ -32,6 +32,44 @@ Portfólio de projetos em **Análise de Dados e Business Intelligence**, com foc
 
 ---
 
+# 📄 Currículo
+
+📥 **Clique no botão abaixo para visualizar ou baixar meu currículo**
+
+<p align="center">
+
+<a href="https://github.com/nayararv/data-analytics-portfolio/blob/main/cv/Nayara_Rocha_Vasselechen_Data_Analyst_CV.pdf">
+<img src="https://img.shields.io/badge/📄%20Baixar%20Currículo-2ea44f?style=for-the-badge"/>
+</a>
+
+</p>
+
+---
+
+# 📬 Contato
+
+🔗 **Clique nos botões abaixo para entrar em contato**
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/nayararv">
+<img src="https://img.shields.io/badge/💼%20LinkedIn-2ea44f?style=for-the-badge"/>
+
+</a>
+
+<a href="https://wa.me/5521996641020">
+<img src="https://img.shields.io/badge/WhatsApp-2ea44f?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+
+</a>
+
+</p>
+
+📧 **Email**
+
+[engenheiranay@gmail.com](mailto:engenheiranay@gmail.com)
+
+---
+
 # 📁 Projetos
 
 ## 📊 Dashboard de Vendas — Power BI
@@ -155,44 +193,6 @@ Este portfólio foi desenvolvido para demonstrar habilidades em:
 * interpretação de métricas de negócio
 
 Os projetos simulam **problemas reais enfrentados por empresas**, permitindo aplicar técnicas utilizadas por **Analistas de Dados no mercado de trabalho**.
-
----
-
-# 📄 Currículo
-
-📥 **Clique no botão abaixo para visualizar ou baixar meu currículo**
-
-<p align="center">
-
-<a href="https://github.com/nayararv/data-analytics-portfolio/blob/main/cv/Nayara_Rocha_Vasselechen_Data_Analyst_CV.pdf">
-<img src="https://img.shields.io/badge/📄%20Baixar%20Currículo-2ea44f?style=for-the-badge"/>
-</a>
-
-</p>
-
----
-
-# 📬 Contato
-
-🔗 **Clique nos botões abaixo para entrar em contato**
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/nayararv">
-<img src="https://img.shields.io/badge/💼%20LinkedIn-2ea44f?style=for-the-badge"/>
-
-</a>
-
-<a href="https://wa.me/5521996641020">
-<img src="https://img.shields.io/badge/WhatsApp-2ea44f?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-
-</a>
-
-</p>
-
-📧 **Email**
-
-[engenheiranay@gmail.com](mailto:engenheiranay@gmail.com)
 
 ---
 
