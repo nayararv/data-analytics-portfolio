@@ -134,11 +134,15 @@ Página dedicada à análise comparativa entre vendas realizadas e metas comerci
 
 # 📄 Arquivo do Dashboard
 
-O arquivo do Power BI pode ser baixado aqui:
+<p align="right">
 
-```
-dashboard.pbix
-```
+Baixar Dashboar
+
+<a href="https://github.com/nayararv/data-analytics-portfolio/raw/main/projects/powerbi-sales-dashboard/dashboard_estrategico_de_vendas.pbix">
+<img src="https://img.shields.io/badge/⬇️%20Baixar%20Dashboard-2a8e59?style=for-the-badge&logo=powerbi&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
