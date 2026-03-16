@@ -36,17 +36,20 @@ O dashboard apresenta indicadores importantes para análise de performance comer
 
 # 🗂 Estrutura do Projeto
 
-```
+```markdown**
 powerbi-sales-dashboard
 │
 ├── dashboard_estrategico_de_vendas.pbix
 │
 ├── images
-│   ├── 01_pagina_visao_geral_dash_vendas.png
-│   ├── 02_pagina_analise_de_produtos_dash_vendas.png
-│   ├── 03_pagina_analise_de_vendedores_dash_vendas.png
-│   ├── 04_pagina_detalhamento_de_vendas_dash_vendas.png
-│   └── 05_pagina_analise_estrategica_dash_vendas.png
+│ ├── 01_pagina_visao_geral_dash_vendas.png
+│ ├── 02_pagina_analise_produtos.png
+│ ├── 03_pagina_analise_vendedores.png
+│ ├── 04_pagina_detalhamento_vendas.png
+│ └── 05_pagina_analise_estrategica.png
+│
+├── design
+│ └── dashboard_wireframe_vendas.pptx
 │
 └── README.md
 ```
