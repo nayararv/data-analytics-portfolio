@@ -17,7 +17,7 @@ Principais análises:
 - Vendas por região e categoria
 
 🔗 Acesse o projeto:  
-../powerbi-sales-dashboard
+[Power BI Sales Dashboard](./powerbi-sales-dashboard)
 
 ---
 
@@ -32,4 +32,4 @@ Principais análises:
 - Métricas de faturamento
 
 🔗 Acesse o projeto:  
-../sql-sales-analysis
+[SQL Sales Analysis](./sql-sales-analysis)
