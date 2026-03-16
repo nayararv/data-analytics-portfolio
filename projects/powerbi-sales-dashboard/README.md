@@ -36,8 +36,6 @@ O dashboard apresenta indicadores importantes para análise de performance comer
 
 # 🗂 Estrutura do Projeto
 
-# 🗂 Estrutura do Projeto
-
 ```
 powerbi-sales-dashboard
 │
