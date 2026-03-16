@@ -1,55 +1,34 @@
-# 📊 Data Analytics Portfolio
+# 📊 Data Analytics Portfolio  
+### Nayara Rocha Vasselechen  
+Data Analyst | Business Intelligence  
 
-### Nayara Rocha Vasselechen
-
-Bem-vindo ao meu portfólio de **Análise de Dados e Business Intelligence**.
-
-Este repositório reúne projetos desenvolvidos com foco em **análise de dados, modelagem de banco de dados, SQL e criação de dashboards interativos**, simulando cenários reais de negócios.
-
-O objetivo destes projetos é demonstrar habilidades técnicas utilizadas no dia a dia de **Analistas de Dados e Analistas de BI**, incluindo:
-
-* Modelagem de dados
-* Análise exploratória
-* Construção de métricas de negócio
-* Desenvolvimento de dashboards
-* Extração de insights para tomada de decisão
+Portfólio de projetos em **Análise de Dados e Business Intelligence**, com foco em aplicação prática de **SQL, Power BI, Excel e modelagem de dados** para geração de insights e suporte à tomada de decisão.
 
 ---
 
-# 👩‍💻 Sobre mim
-
-Sou profissional em transição para a área de **Data Analytics**, com foco em **SQL, Power BI e análise de dados aplicada a negócios**.
-
-Tenho interesse em atuar como:
-
-**Analista de Dados Júnior**
-**Analista de Business Intelligence Júnior**
-
-Busco oportunidades onde eu possa aplicar **análise de dados para gerar insights estratégicos e apoiar decisões de negócio**.
-
----
-
-# 🧠 Habilidades Técnicas
+# 🚀 Hard Skills
 
 **Análise de Dados**
 
-* SQL
-* MySQL
-* Análise exploratória de dados
-* Construção de métricas de negócio
+- SQL
+- Análise exploratória de dados
+- Construção de métricas de negócio
+- Análise de performance comercial
 
 **Business Intelligence**
 
-* Power BI
-* Modelagem dimensional
-* DAX
-* Construção de dashboards
+- Power BI
+- Modelagem dimensional (Star Schema)
+- DAX
+- Construção de dashboards interativos
 
 **Ferramentas**
 
-* Git
-* GitHub
-* Excel
+- SQL (MySQL)
+- Power BI
+- Excel
+- Git
+- GitHub
 
 ---
 
