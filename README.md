@@ -63,7 +63,7 @@ engenheiranay@gmail.com
 ## 📊 Dashboard de Vendas — Power BI
 
 🔗 Repositório
-https://github.com/nayararv/powerbi-dash-vendas-comercial-
+https://github.com/nayararv/data-analytics-portfolio/tree/main/projects/powerbi-sales-dashboard
 
 Projeto de **Business Intelligence desenvolvido em Power BI** para análise de desempenho comercial.
 
