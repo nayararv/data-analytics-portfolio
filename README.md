@@ -107,7 +107,7 @@ Tabela de apoio:
 ## 🗄 SQL — Análise de Vendas
 
 🔗 Repositório
-https://github.com/nayararv/sql-analise-de-vendas
+https://github.com/nayararv/data-analytics-portfolio/tree/main/projects/sql-sales-analysis
 
 Projeto de **análise de dados utilizando SQL**, simulando um banco de dados de vendas de uma empresa.
 
