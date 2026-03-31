@@ -60,6 +60,56 @@ engenheiranay@gmail.com
 
 # 📁 Projetos
 
+## 📊 Dashboard de Performance de Vendas e Promoções — Power BI
+
+🔗 Repositório  
+https://github.com/nayararv/data-analytics-portfolio/tree/main/projects/dashboard-performance-vendas-promocoes
+
+Projeto de **Business Intelligence desenvolvido em Power BI** para análise de desempenho de vendas, margem e impacto de promoções.
+
+O dashboard utiliza **dados simulados** em um cenário de varejo, com foco em **indicadores estratégicos de negócio**, permitindo avaliar a eficiência comercial e o impacto de descontos e promoções nos resultados.
+
+### Principais análises
+
+* Vendas brutas e vendas líquidas  
+* Margem e rentabilidade  
+* Impacto das promoções  
+* Avaliação de descontos  
+* Desempenho por produtos e categorias  
+* Análise por localidade  
+* Crescimento de vendas (YoY)  
+
+### Modelo de dados
+
+O projeto utiliza **modelagem dimensional (Star Schema)** composta por:
+
+Tabela fato:
+
+* f_vendas  
+
+Tabelas dimensão:
+
+* d_produtos_clean  
+* d_categoria  
+* d_subcategorias_clean  
+* d_localidades_clean  
+* d_lojas  
+* d_calendario  
+* d_promocoes  
+
+Tabela de apoio:
+
+* d_icones  
+
+### Tecnologias utilizadas
+
+* Power BI  
+* DAX  
+* Modelagem Dimensional  
+* SQL Server
+
+---
+
 ## 📊 Dashboard de Vendas — Power BI
 
 🔗 Repositório
