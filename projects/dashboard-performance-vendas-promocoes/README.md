@@ -1,8 +1,8 @@
 # 📊 Sales & Promotions Performance Dashboard — Power BI
 
-Projeto de **Business Intelligence** desenvolvido em Power BI com o objetivo de analisar o desempenho de vendas, margem e impacto de promoções em uma empresa fictícia de varejo.
+Projeto de **Business Intelligence** desenvolvido em Power BI com o objetivo de analisar o desempenho de vendas, margem e impacto de promoções em uma empresa fictícia de varejo, utilizando **dados simulados para fins de análise**.
 
-O dashboard foi criado como parte de um **case técnico em processo seletivo**, com foco em transformar dados em insights para apoiar a tomada de decisão.
+O dashboard foi desenvolvido como parte de um **case técnico em processo seletivo**, sendo bem avaliado e contribuindo para minha classificação para a próxima etapa.
 
 ---
 
