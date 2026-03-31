@@ -23,10 +23,14 @@ Responsável por armazenar as métricas de negócio, como vendas, custos, descon
 
 ### Tabelas Dimensão
 
-- **d_produtos** → informações de produtos  
-- **d_categoria** → categorização dos produtos  
-- **d_localidade** → dados geográficos (regiões/países)  
 - **d_calendario** → estrutura temporal para análises ao longo do tempo  
+- **d_categoria** → categorização dos produtos  
+- **d_subcategorias_clean** → subcategorias tratadas  
+- **d_produtos_clean** → informações de produtos tratadas  
+- **d_promocoes** → tipos de promoções aplicadas  
+- **d_localidades_clean** → dados geográficos tratados (regiões/países)  
+- **d_lojas** → informações das lojas  
+- **d_icones** → tabela de apoio para elementos visuais no dashboard  
 
 ---
 
