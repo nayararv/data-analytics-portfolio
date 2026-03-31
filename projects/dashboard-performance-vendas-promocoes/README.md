@@ -85,11 +85,15 @@ Essa estrutura permite analisar o desempenho de vendas sob diferentes perspectiv
 
 Apresenta os principais indicadores de desempenho geral, incluindo vendas, margem e crescimento.
 
+![Visão Executiva](04_imagens/01_visao_executiva.png)
+
 ---
 
 ## Análise de Produtos
 
 Permite identificar os produtos e categorias com maior contribuição em vendas e margem.
+
+![Produtos](04_imagens/02_produtos.png)
 
 ---
 
@@ -97,17 +101,23 @@ Permite identificar os produtos e categorias com maior contribuição em vendas 
 
 Avalia o impacto das promoções no volume de vendas e na margem.
 
+![Promoções](04_imagens/03_promocoes.png)
+
 ---
 
 ## Análise de Descontos
 
 Mostra como os descontos influenciam o desempenho financeiro e a margem.
 
+![Descontos](04_imagens/04_descontos.png)
+
 ---
 
 ## Análise por Localidade
 
 Apresenta o desempenho de vendas e margem por região.
+
+![Localidades](04_imagens/05_localidades.png)
 
 ---
 
