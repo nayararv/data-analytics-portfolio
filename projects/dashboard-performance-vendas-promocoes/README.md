@@ -38,28 +38,41 @@ O dashboard apresenta indicadores essenciais para análise de desempenho:
 
 # 🗂 Estrutura do Projeto
 
+# 🗂 Estrutura do Projeto
+
 ```markdown
 dashboard-performance-vendas-promocoes
 │
 ├── 01_dados
+│   ├── d_calendario.csv
+│   ├── d_categoria.csv
+│   ├── d_icones.csv
+│   ├── d_localidades_clean.csv
+│   ├── d_lojas.csv
+│   ├── d_produtos_clean.csv
+│   ├── d_promocoes.csv
+│   └── d_subcategorias_clean.csv
 │
 ├── 02_modelagem
+│   └── modelo_relacionamento.png
 │
 ├── 03_dashboard
 │   └── dashboard_performance_vendas.pbix
 │
 ├── 04_imagens
-│   ├── visao_executiva.png
-│   ├── produtos.png
-│   ├── promocoes.png
-│   ├── descontos.png
-│   └── localidades.png
+│   ├── 01_visao_executiva.png
+│   ├── 02_produtos.png
+│   ├── 03_promocoes.png
+│   ├── 04_descontos.png
+│   ├── 05_localidades.png
+│   └── 06_metodologia.png
 │
 ├── 05_documentacao
 │   └── descricao_projeto.md
 │
 └── README.md
 ```
+
 # 🧠 Modelagem de Dados
 
 O projeto utiliza **modelagem dimensional (Star Schema)** para garantir consistência e performance.
