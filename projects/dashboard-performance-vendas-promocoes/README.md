@@ -121,6 +121,14 @@ Apresenta o desempenho de vendas e margem por região.
 
 ---
 
+## Metodologia
+
+Apresenta a abordagem utilizada no projeto, incluindo tratamento de dados, modelagem dimensional e construção das métricas para garantir consistência e confiabilidade das análises.
+
+![Metodologia](04_imagens/06_metodologia.png)
+
+---
+
 # 🛠 Tecnologias Utilizadas
 
 - Power BI  
