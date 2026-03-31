@@ -38,8 +38,6 @@ O dashboard apresenta indicadores essenciais para análise de desempenho:
 
 # 🗂 Estrutura do Projeto
 
-# 🗂 Estrutura do Projeto
-
 ```markdown
 dashboard-performance-vendas-promocoes
 │
