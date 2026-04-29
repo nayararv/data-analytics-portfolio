@@ -24,14 +24,10 @@ Responsável por armazenar as métricas de negócio, como vendas, custos, descon
 ### Tabelas Dimensão
 
 - **d_calendario** → estrutura temporal para análises ao longo do tempo  
-- **d_categoria** → categorização dos produtos  
-- **d_subcategorias_clean** → subcategorias tratadas  
-- **d_produtos_clean** → informações de produtos tratadas  
-- **d_promocoes** → tipos de promoções aplicadas  
-- **d_localidades_clean** → dados geográficos tratados (regiões/países)  
-- **d_lojas** → informações das lojas  
-- **d_icones** → tabela de apoio para elementos visuais no dashboard  
-
+- **d_Produtos** → categorização dos produtos  
+- **d_Promocoes** → tipos de promoções aplicadas  
+- **d_Lojas** → informações das lojas  
+  
 ---
 
 ## 🔗 Relacionamentos
@@ -45,13 +41,7 @@ Essa configuração garante maior controle e evita ambiguidades no modelo.
 
 ## 🧹 Tratamento de Dados
 
-Como não houve acesso direto à origem (SQL Server), os ajustes foram realizados no Power BI.
-
-Foram criadas tabelas auxiliares com sufixo **_Clean**, com o objetivo de:
-
-- Remover duplicidades  
-- Ajustar chaves de relacionamento  
-- Padronizar dados  
+Devido à ausência de acesso direto ao banco de dados, os dados foram tratados previamente no Excel antes da importação para o Power BI. Foram realizadas unificações de tabelas dimensionais, consolidando informações de Produto e Loja em uma única estrutura.
 
 ---
 
