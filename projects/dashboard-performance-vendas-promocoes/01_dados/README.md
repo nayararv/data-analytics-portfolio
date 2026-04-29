@@ -14,21 +14,13 @@ Os dados seguem um modelo dimensional, organizados em tabelas de dimensão e apo
 ### Tabelas Dimensão
 
 - **d_calendario** → informações de datas para análise temporal  
-- **d_categoria** → categorias de produtos  
-- **d_subcategorias_clean** → subcategorias tratadas  
-- **d_produtos_clean** → dados de produtos tratados  
-- **d_promocoes** → tipos de promoções  
-- **d_localidades_clean** → informações geográficas tratadas  
+- **d_produtos** → categorias de produtos    
+- **d_promocoes** → tipos de promoções   
 - **d_lojas** → dados das lojas  
-- **d_icones** → apoio visual para categorização no dashboard  
 
 ## 🧹 Tratamento de Dados
 
-Algumas tabelas possuem o sufixo **_clean**, indicando que passaram por tratamento para:
-
-- Remoção de duplicidades  
-- Padronização de dados  
-- Ajustes de chaves de relacionamento  
+Devido à ausência de acesso direto ao banco de dados, os dados foram tratados previamente no Excel antes da importação para o Power BI. Foram realizadas unificações de tabelas dimensionais, consolidando informações de Produto e Loja em uma única estrutura.  
 
 ## 🎯 Objetivo
 
