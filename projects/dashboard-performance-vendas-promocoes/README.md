@@ -43,13 +43,10 @@ dashboard-performance-vendas-promocoes
 │
 ├── 01_dados
 │   ├── d_calendario.csv
-│   ├── d_categoria.csv
-│   ├── d_icones.csv
-│   ├── d_localidades_clean.csv
+│   ├── d_produtos.csv
 │   ├── d_lojas.csv
-│   ├── d_produtos_clean.csv
 │   ├── d_promocoes.csv
-│   └── d_subcategorias_clean.csv
+│   └── fvendas
 │
 ├── 02_modelagem
 │   └── modelo_relacionamento.png
@@ -82,8 +79,8 @@ O projeto utiliza **modelagem dimensional (Star Schema)** para garantir consist�
 ### Tabelas Dimensão
 
 - produtos  
-- categoria  
-- localidade  
+- promocoes 
+- lojas 
 - calendário  
 
 Essa estrutura permite analisar o desempenho de vendas sob diferentes perspectivas de negócio.
@@ -145,7 +142,6 @@ Apresenta a abordagem utilizada no projeto, incluindo tratamento de dados, model
 - Power BI  
 - DAX  
 - Modelagem Dimensional  
-- SQL Server  
 - Git  
 - GitHub  
 
