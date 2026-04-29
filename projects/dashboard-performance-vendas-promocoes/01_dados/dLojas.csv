@@ -1,0 +1,307 @@
+﻿IdLoja;IdLocalidade;TipoLoja;Status;DataAbertura;DataFechamento;RazaoFechamento;NumeroDeFuncionarios;TamanhoDaLoja;Estado;Pais
+1;693;Store;On;12/04/2004;;;17;462;Washington;United States
+2;693;Store;On;14/02/2004;;;25;700;Washington;United States
+3;856;Store;On;12/02/2004;;;26;680;Washington;United States
+4;424;Store;On;01/03/2004;;;19;455;Washington;United States
+5;677;Store;On;02/04/2004;;;33;560;Washington;United States
+6;575;Store;On;15/05/2005;;;47;1125;Washington;United States
+7;838;Store;On;16/06/2004;;;22;500;Washington;United States
+8;935;Store;On;02/07/2004;;;17;460;Washington;United States
+9;941;Store;On;18/08/2004;;;25;700;Washington;United States
+10;947;Store;On;19/09/2004;;;25;700;Washington;United States
+11;813;Store;On;20/10/2004;;;26;680;Washington;United States
+13;930;Store;On;22/12/2004;;;33;560;Washington;United States
+14;825;Store;On;23/01/2006;;;47;1125;Washington;United States
+15;678;Store;On;24/02/2004;;;22;500;Washington;United States
+16;627;Store;On;25/01/2004;;;17;462;Washington;United States
+17;551;Store;On;26/03/2004;;;25;700;Washington;United States
+18;944;Store;On;27/07/2004;;;26;680;Washington;United States
+20;824;Store;On;29/09/2004;;;33;560;Colorado;United States
+21;950;Store;On;02/11/2004;;;47;1125;Colorado;United States
+22;571;Store;On;03/12/2004;;;22;500;British Columbia;Canada
+23;836;Store;On;24/01/2004;;;17;460;Colorado;United States
+24;887;Store;On;15/02/2004;;;25;700;Colorado;United States
+25;839;Store;On;16/03/2004;;;25;700;Colorado;United States
+26;867;Store;On;17/04/2004;;;26;680;Colorado;United States
+27;859;Store;On;18/05/2004;;;19;455;Colorado;United States
+28;809;Store;On;19/06/2004;;;33;560;Colorado;United States
+30;829;Store;On;21/08/2004;;;22;500;Colorado;United States
+31;839;Store;On;22/09/2004;;;17;462;Colorado;United States
+32;877;Store;On;23/10/2004;;;25;700;Colorado;United States
+33;799;Store;On;24/11/2004;;;26;680;Colorado;United States
+34;818;Store;On;02/12/2004;;;26;680;Colorado;United States
+35;818;Store;On;03/10/2004;;;19;455;Colorado;United States
+36;818;Store;On;27/06/2003;;;33;560;Colorado;United States
+37;803;Store;On;28/03/2003;;;47;1125;Colorado;United States
+38;940;Store;On;29/04/2003;;;22;500;Colorado;United States
+39;865;Store;On;30/05/2003;;;17;462;Colorado;United States
+40;790;Store;On;11/06/2003;;;25;700;Colorado;United States
+41;904;Store;On;02/07/2004;;;26;680;Colorado;United States
+42;840;Store;On;03/08/2003;;;19;455;Wisconsin;United States
+43;786;Store;On;04/09/2003;;;33;560;Wisconsin;United States
+44;874;Store;On;05/10/2003;;;47;1125;Wisconsin;United States
+45;901;Store;On;06/11/2007;;;22;500;Wisconsin;United States
+46;827;Store;On;07/12/2007;;;17;460;Wisconsin;United States
+47;878;Store;On;18/01/2004;;;25;700;Wisconsin;United States
+49;878;Store;On;02/04/2004;;;26;680;Wisconsin;United States
+50;949;Store;On;19/04/2004;;;19;455;Wisconsin;United States
+51;918;Store;On;15/05/2004;;;33;560;Wisconsin;United States
+52;806;Store;On;17/06/2004;;;47;1125;Wisconsin;United States
+53;821;Store;On;18/08/2004;;;22;500;Wisconsin;United States
+54;949;Store;On;20/08/2004;;;17;462;Wisconsin;United States
+55;835;Store;On;02/09/2004;;;25;700;Maryland;United States
+57;913;Store;On;25/11/2004;;;26;680;Wisconsin;United States
+58;928;Store;On;26/12/2004;;;19;455;Wisconsin;United States
+59;871;Store;On;27/04/2004;;;33;560;Wisconsin;United States
+60;870;Store;On;28/02/2004;;;47;1125;Wisconsin;United States
+61;898;Store;On;29/03/2004;;;22;500;Wisconsin;United States
+63;822;Store;On;31/05/2004;;;25;700;Wisconsin;United States
+64;828;Store;On;01/06/2004;;;26;680;Wisconsin;United States
+65;918;Store;On;02/07/2009;;;19;455;Wisconsin;United States
+66;849;Store;On;03/08/2004;;;33;560;Texas;United States
+67;849;Store;On;11/03/2004;;;47;1125;Texas;United States
+68;849;Store;On;02/07/2004;;;22;500;Texas;United States
+69;849;Store;On;03/08/2004;;;17;460;Texas;United States
+70;876;Store;On;12/09/2003;;;25;700;Texas;United States
+71;924;Store;On;05/11/2007;;;25;700;Texas;United States
+72;879;Store;On;06/11/2004;;;26;680;Texas;United States
+73;929;Store;On;17/10/2004;;;19;455;Texas;United States
+74;872;Store;On;18/02/2004;;;33;560;Texas;United States
+75;866;Store;On;19/02/2004;;;47;1125;Texas;United States
+76;798;Store;On;20/02/2004;;;22;500;Texas;United States
+77;897;Store;On;21/02/2004;;;17;462;Texas;United States
+78;798;Store;On;22/02/2004;;;25;700;Texas;United States
+79;579;Store;On;17/01/2004;;;26;680;Texas;United States
+80;858;Store;On;18/02/2004;;;26;680;Texas;United States
+81;793;Store;On;19/03/2004;;;19;455;Texas;United States
+82;939;Store;On;20/04/2004;;;33;560;Texas;United States
+83;906;Store;On;21/05/2004;;;47;1125;Texas;United States
+85;933;Store;On;23/07/2004;;;17;462;Texas;United States
+86;791;Store;On;24/08/2004;;;25;700;Texas;United States
+87;925;Store;On;25/08/2004;;;26;680;Texas;United States
+88;453;Store;On;26/10/2004;;;19;455;Texas;United States
+89;923;Store;On;27/11/2004;;;33;560;Texas;United States
+90;815;Store;On;02/12/2008;;;47;1125;Texas;United States
+91;834;Store;On;29/01/2003;;;22;500;Texas;United States
+92;845;Store;On;30/01/2003;;;17;460;Texas;United States
+93;787;Store;On;31/08/2003;;;25;700;Texas;United States
+94;837;Store;On;03/02/2003;;;25;700;Texas;United States
+95;819;Store;On;31/03/2003;;;26;680;Texas;United States
+96;919;Store;On;01/02/2003;;;19;455;Texas;United States
+97;863;Store;On;02/04/2003;;;33;560;Texas;United States
+98;817;Store;On;03/05/2003;;;47;1125;Texas;United States
+99;831;Store;On;04/06/2003;;;22;500;Texas;United States
+100;910;Store;On;05/07/2003;;;17;462;Texas;United States
+101;875;Store;On;06/08/2003;;;17;462;Florida;United States
+102;875;Store;On;07/09/2003;;;25;700;Florida;United States
+103;853;Store;On;08/10/2003;;;26;680;Florida;United States
+104;937;Store;On;09/11/2003;;;19;455;Florida;United States
+105;937;Store;On;29/11/2003;;;33;560;Florida;United States
+107;926;Store;On;12/02/2003;;;22;500;Florida;United States
+108;860;Store;On;13/02/2003;;;17;460;Florida;United States
+109;830;Store;On;14/02/2003;;;25;700;Florida;United States
+110;899;Store;On;15/02/2003;;;25;700;Florida;United States
+111;938;Store;On;16/02/2003;;;26;680;Florida;United States
+113;807;Store;On;14/02/2004;;;33;560;Florida;United States
+114;782;Store;On;12/02/2004;;;47;1125;New York;United States
+115;890;Store;On;01/03/2004;;;22;500;New York;United States
+116;922;Store;On;02/04/2004;;;17;462;New York;United States
+117;890;Store;On;15/05/2005;;;25;700;New York;United States
+118;936;Store;On;16/06/2004;;;26;680;New York;United States
+120;911;Store;On;18/08/2004;;;33;560;New York;United States
+121;804;Store;On;19/09/2004;;;47;1125;New York;United States
+122;902;Store;On;20/10/2004;;;22;500;New York;United States
+123;852;Store;On;21/11/2004;;;17;460;New York;United States
+124;922;Store;On;22/12/2004;;;25;700;New York;United States
+125;916;Store;On;23/01/2006;;;25;700;New York;United States
+126;823;Store;On;24/02/2004;;;26;680;New York;United States
+127;912;Store;On;25/01/2004;;;19;455;New York;United States
+128;943;Store;On;26/03/2004;;;33;560;New Jersey;United States
+130;891;Store;On;28/08/2004;;;22;500;New Jersey;United States
+131;891;Store;On;29/09/2004;;;17;462;New Jersey;United States
+132;854;Store;On;02/11/2004;;;25;700;New Jersey;United States
+133;908;Store;On;03/12/2008;;;26;680;New Jersey;United States
+134;814;Store;On;24/01/2004;;;26;680;New Jersey;United States
+135;820;Store;On;15/02/2004;;;19;455;New Jersey;United States
+136;907;Store;On;16/03/2004;;;33;560;New Jersey;United States
+137;797;Store;On;17/04/2004;;;47;1125;New Jersey;United States
+138;945;Store;On;18/05/2004;;;22;500;New Jersey;United States
+139;886;Store;On;19/06/2004;;;17;462;New Jersey;United States
+140;842;Store;On;20/07/2004;;;25;700;New Jersey;United States
+141;788;Store;On;21/08/2004;;;26;680;New Jersey;United States
+142;880;Store;On;22/09/2004;;;19;455;New Jersey;United States
+143;847;Store;On;23/10/2004;;;33;560;New Jersey;United States
+144;882;Store;On;24/11/2004;;;47;1125;New Jersey;United States
+145;808;Store;On;02/12/2004;;;22;500;New Jersey;United States
+146;802;Store;On;06/11/2004;;;17;460;Massachusetts;United States
+147;952;Store;On;17/10/2004;;;25;700;Massachusetts;United States
+149;885;Store;On;19/02/2004;;;26;680;Massachusetts;United States
+150;789;Store;On;20/02/2004;;;19;455;Massachusetts;United States
+151;868;Store;On;21/02/2004;;;33;560;Massachusetts;United States
+152;861;Store;On;22/02/2004;;;47;1125;Massachusetts;United States
+153;846;Store;On;17/01/2004;;;22;500;Massachusetts;United States
+154;917;Store;On;18/02/2004;;;17;462;Massachusetts;United States
+155;832;Store;On;19/03/2004;;;25;700;Massachusetts;United States
+156;449;Store;On;20/04/2004;;;26;680;England;United Kingdom
+157;931;Store;On;21/05/2004;;;26;680;Massachusetts;United States
+158;844;Store;On;22/06/2004;;;19;455;Massachusetts;United States
+159;869;Store;On;23/07/2004;;;33;560;Massachusetts;United States
+160;895;Store;On;24/08/2004;;;47;1125;Massachusetts;United States
+161;848;Store;On;25/08/2004;;;22;500;Massachusetts;United States
+163;826;Store;On;27/11/2004;;;25;700;Massachusetts;United States
+164;914;Store;On;02/12/2004;;;26;680;Massachusetts;United States
+165;883;Store;On;06/11/2004;;;19;455;Massachusetts;United States
+166;795;Store;On;17/10/2004;;;33;560;Maine;United States
+167;796;Store;On;18/02/2004;;;47;1125;Maine;United States
+168;855;Store;On;19/02/2004;;;22;500;Maine;United States
+169;862;Store;On;20/02/2004;;;17;460;Maine;United States
+170;900;Store;On;21/02/2004;;;25;700;Maine;United States
+171;932;Store;On;22/02/2004;;;25;700;Maine;United States
+172;843;Store;On;17/01/2004;;;26;680;Connecticut;United States
+173;801;Store;On;18/02/2004;;;19;455;Connecticut;United States
+174;948;Store;On;19/03/2004;;;33;560;Connecticut;United States
+175;896;Store;On;20/04/2004;;;47;1125;Connecticut;United States
+176;816;Store;On;21/05/2004;;;22;500;Connecticut;United States
+177;888;Store;On;22/06/2004;;;17;462;Connecticut;United States
+178;864;Store;On;23/07/2004;;;25;700;Connecticut;United States
+179;889;Store;On;24/08/2004;;;26;680;Connecticut;United States
+180;892;Store;On;25/08/2004;;;26;680;Virginia;United States
+181;946;Store;On;26/10/2004;;;19;455;Virginia;United States
+182;951;Store;On;27/11/2004;;;33;560;Virginia;United States
+183;784;Store;On;02/12/2004;;;47;1125;Alaska;United States
+185;921;Store;On;17/10/2004;;;17;462;Virginia;United States
+186;811;Store;On;18/02/2004;;;25;700;Virginia;United States
+187;833;Store;On;19/02/2004;;;26;680;Virginia;United States
+188;873;Store;On;20/02/2004;;;19;455;Virginia;United States
+189;841;Store;On;21/02/2004;;;33;560;South Carolina;United States
+190;810;Store;On;22/02/2004;;;47;1125;South Carolina;United States
+191;785;Store;On;17/01/2004;;;22;500;Maryland;United States
+192;794;Store;On;18/02/2004;;;17;460;Maryland;United States
+193;850;Store;On;19/03/2004;;;25;700;Maryland;United States
+194;920;Store;On;20/04/2004;;;25;700;Maryland;United States
+195;915;Store;On;21/05/2004;;;26;680;Maryland;United States
+196;905;Store;On;22/06/2004;;;19;455;Maryland;United States
+197;792;Store;On;23/07/2004;;;33;560;Maryland;United States
+198;835;Store;On;24/08/2004;;;47;1125;Maryland;United States
+201;506;Store;On;27/11/2004;;;17;462;England;United Kingdom
+202;748;Store;On;02/08/2004;;;25;700;Scotland;United Kingdom
+203;751;Store;On;16/08/2007;;;26;680;Scotland;United Kingdom
+204;576;Store;On;27/08/2004;;;78;680;England;United Kingdom
+205;742;Store;On;18/05/2004;;;23;680;England;United Kingdom
+206;761;Store;On;19/06/2004;;;11;680;England;United Kingdom
+207;755;Store;On;20/07/2004;;;36;680;England;United Kingdom
+208;781;Store;On;21/03/2004;;;90;680;England;United Kingdom
+209;738;Store;On;22/09/2004;;;32;680;England;United Kingdom
+210;743;Store;On;23/04/2004;;;;680;England;United Kingdom
+211;774;Store;On;24/11/2004;;;34;680;England;United Kingdom
+212;651;Store;On;02/03/2004;;;64;680;England;United Kingdom
+213;753;Store;On;26/03/2004;;;24;680;England;United Kingdom
+214;501;Store;On;27/06/2004;;;25;680;England;United Kingdom
+215;529;Store;On;28/03/2004;;;12;680;Seine (Paris);France
+216;762;Store;On;29/04/2008;;;13;680;Provence-Alpes-Cote d'Azur;France
+217;759;Store;On;30/08/2004;;;15;680;Rhone-Alpes;France
+218;777;Store;On;11/09/2004;;;23;680;Midi-Pyrenees;France
+219;767;Store;On;02/02/2004;;;32;680;Alpes-Maritimes;France
+220;766;Store;On;03/08/2004;;;11;680;Pays de la Loire;France
+221;775;Store;On;04/09/2004;;;10;630;Bas-Rhin;France
+222;771;Store;On;05/10/2007;;;43;490;Roma;Italy
+223;779;Store;On;06/07/2009;;;11;500;Venice;Italy
+224;749;Store;On;07/12/2004;;;45;500;Province of Florence;Italy
+225;776;Store;On;18/03/2004;;;24;500;Province of Turin;Italy
+226;763;Store;On;09/04/2004;;;23;500;Lombardia;Italy
+227;884;Store;On;02/03/2004;;;13;500;Florida;United States
+228;586;Store;On;09/10/2008;;;13;500;Berlin;Germany
+230;754;Store;On;15/05/2004;;;25;500;North Rhine-Westphalia;Germany
+231;752;Store;On;17/06/2004;;;25;500;Hesse;Germany
+232;754;Store;On;29/07/2004;;;35;500;North Rhine-Westphalia;Germany
+233;756;Store;On;20/08/2004;;;21;500;Rhineland-Palatinate;Germany
+234;747;Store;On;12/09/2007;;;24;500;North Rhine-Westphalia;Germany
+235;770;Store;On;13/08/2004;;;15;500;Rhineland-Palatinate;Germany
+236;739;Store;On;25/06/2004;;;28;500;Rhineland-Palatinate;Germany
+237;750;Store;On;26/12/2004;;;15;500;Bavaria;Germany
+238;769;Store;On;27/05/2004;;;29;500;Bavaria;Germany
+239;765;Store;On;28/02/2006;;;18;500;Bavaria;Germany
+240;736;Store;On;29/03/2004;;;26;680;Noord-Holland;the Netherlands
+241;745;Store;On;30/04/2004;;;25;680;Staden Kobenhavn;Denmark
+242;773;Store;On;31/05/2004;;;33;680;Stockholms;Sweden
+243;760;Store;On;01/03/2004;;;35;680;Madrid;Spain
+244;758;Store;On;02/07/2004;;;36;680;Ljubljana;Slovenia
+245;741;Store;On;19/05/2004;;;25;680;Bucuresti;Romania
+246;740;Store;On;20/04/2004;;;53;680;Bern;Switzerland
+247;780;Store;On;04/09/2004;;;15;680;Warszawa;Poland
+248;778;Store;On;19/02/2004;;;42;680;Valletta;Malta
+249;746;Store;On;20/02/2006;;;55;680;Leinster;Ireland
+250;737;Store;On;17/04/2004;;;15;680;Central Greece and Evvoia;Greece
+251;728;Store;On;22/04/2004;;;27;480;Singapore;Singapore
+252;713;Store;On;17/11/2005;;;28;480;Molonglo;Australia
+253;558;Store;On;27/06/2005;;;20;480;New South Wales;Australia
+254;734;Store;On;28/03/2004;;;15;480;Armenia;Armenia
+255;723;Store;On;29/04/2004;;;29;480;National Capital Territory of Delhi;India
+256;721;Store;On;30/07/2004;;;35;480;Maharashtra;India
+257;718;Store;On;11/06/2005;;;35;480;West Bengal;India
+258;731;Store;On;02/07/2009;;;35;480;Thimphu District;Bhutan
+259;716;Store;On;03/08/2004;;;35;480;Hong Kong;China
+260;730;Store;On;04/09/2004;;;35;480;Tehran;Iran
+261;714;Store;On;05/10/2007;;;35;480;Damascus;Syria
+262;709;Store;On;06/11/2008;;;62;480;Krung Thep;Thailand
+263;764;Store;On;07/06/2004;;;65;480;Moskovskaya oblast;Russia
+264;708;Store;On;18/01/2004;;;68;480;Ahal Province;Turkmenistan
+265;717;Store;On;09/02/2004;;;71;480;Islamabad Capital Territory;Pakistan
+267;732;Store;On;02/04/2004;;;68;480;Kanto;Japan
+268;732;Store;On;19/04/2006;;;68;480;Kanto;Japan
+269;735;Store;On;15/05/2004;;;77;480;Kanto;Japan
+270;724;Store;On;17/06/2005;;;80;480;Kansai;Japan
+271;722;Store;On;18/08/2008;;;50;480;Chubu;Japan
+272;725;Store;On;20/08/2007;;;50;480;Hokkaido;Japan
+273;719;Store;On;02/09/2009;;;50;480;Kansai;Japan
+274;726;Store;On;13/10/2008;;;50;480;Seoul-jikhalsi;South Korea
+275;712;Store;On;12/07/2006;;;50;480;Yeongnam;South Korea
+276;711;Store;On;13/08/2006;;;50;480;Chuy Province;Kyrgyzstan
+277;727;Store;On;14/02/2004;;;95;480;Shanghai;China
+278;733;Store;On;15/07/2005;;;50;480;Xinjiang;China
+279;710;Store;On;16/07/2008;;;86;480;Beijing;China
+280;715;Store;On;17/07/2009;;;131;480;GuangDong;China
+281;727;Store;On;02/03/2004;;;95;480;Shanghai;China
+282;903;Store;On;09/04/2004;;;95;480;Ontario;Canada
+283;903;Store;On;15/05/2004;;;95;480;Ontario;Canada
+284;942;Store;On;17/06/2004;;;95;480;Ontario;Canada
+285;942;Store;On;29/07/2003;;;95;480;Ontario;Canada
+286;942;Store;On;20/08/2004;;;95;480;Ontario;Canada
+287;881;Store;On;12/09/2004;;;95;480;Quebec;Canada
+288;881;Store;On;13/02/2003;;;95;480;Quebec;Canada
+289;562;Store;On;25/11/2004;;;95;480;British Columbia;Canada
+290;562;Store;On;26/12/2004;;;95;480;British Columbia;Canada
+291;598;Store;On;27/05/2004;;;95;480;Alberta;Canada
+292;731;Store;On;28/02/2006;;;95;480;Thimphu District;Bhutan
+293;716;Store;On;29/03/2007;;;95;480;Hong Kong;China
+294;730;Store;On;30/04/2004;;;95;480;Tehran;Iran
+295;714;Store;On;31/05/2004;;;95;480;Damascus;Syria
+296;709;Store;On;01/06/2005;;;95;480;Krung Thep;Thailand
+297;764;Store;On;02/07/2004;;;95;480;Moskovskaya oblast;Russia
+298;708;Store;On;06/11/2006;;;95;480;Ahal Province;Turkmenistan
+299;717;Store;On;07/12/2007;;;95;480;Islamabad Capital Territory;Pakistan
+300;558;Store;On;18/03/2004;;;95;480;New South Wales;Australia
+301;724;Store;On;19/03/2007;;;95;480;Kansai;Japan
+302;729;Store;On;19/07/2004;;;95;480;Taiwan;Taiwan
+303;757;Store;On;20/09/2004;;;95;480;Lisboa Region;Portugal
+304;772;Store;On;07/06/2004;;;95;480;Northwestern;Russia
+305;768;Store;On;15/03/2004;;;95;480;Nizhny Novgorod Oblast;Russia
+199;800;Online;On;25/08/2004;;;325;500;Maryland;United States
+200;894;Catalog;On;26/10/2004;;;120;462;Maryland;United States
+306;586;Online;On;03/09/2004;;;7;1000;Berlin;Germany
+307;710;Online;On;11/10/2004;;;8;93800;Beijing;China
+308;693;Reseller;On;08/03/2004;;;15;450;Washington;United States
+309;529;Reseller;On;07/05/2004;;;12;551;Seine (Paris);France
+310;710;Reseller;On;15/07/2004;;;17;93800;Beijing;China
+12;893;Store;Off;21/11/2004;12/04/2009;Relocation;19;455;Washington;United States
+19;812;Store;Off;28/08/2004;12/05/2009;Store;19;455;Washington;United States
+29;927;Store;Off;20/07/2004;12/07/2009;Relocation;47;1125;Colorado;United States
+48;878;Store;Off;09/02/2004;12/05/2009;Relocation;25;700;Wisconsin;United States
+62;934;Store;Off;30/04/2004;12/07/2009;Relocation;17;462;Wisconsin;United States
+84;851;Store;Off;22/06/2004;12/02/2009;Relocation;22;500;Texas;United States
+112;857;Store;Off;12/01/2004;02/07/2009;Relocation;19;455;Florida;United States
+119;805;Store;Off;02/07/2004;22/09/2008;Store;19;455;New York;United States
+129;943;Store;Off;27/07/2004;12/12/2008;Relocation;47;1125;New Jersey;United States
+148;952;Store;Off;18/02/2004;12/07/2009;Relocation;25;700;Massachusetts;United States
+162;909;Store;Off;26/10/2004;12/07/2009;Relocation;17;462;Massachusetts;United States
+184;783;Store;Off;06/11/2004;12/07/2009;Relocation;22;500;Virginia;United States
