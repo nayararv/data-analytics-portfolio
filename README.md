@@ -38,7 +38,7 @@ Portfólio de projetos em **Análise de Dados e Business Intelligence**, com foc
 
 <p align="center">
 
-<a href="https://github.com/nayararv/data-analytics-portfolio/blob/main/cv/Nayara_Rocha_Vasselechen_Data_Analyst_CV.pdf">
+<a href="https://github.com/nayararv/data-analytics-portfolio/blob/main/cv/01-CV-Nayara-Rocha-Vasselechen.pdf">
 <img src="https://img.shields.io/badge/📄%20Currículo-2ea44f?style=for-the-badge"/>
 </a>
 
