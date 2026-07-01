@@ -6,6 +6,21 @@ Cada projeto aborda um problema de negócio e apresenta a análise realizada.
 
 ---
 
+## 📊 Dashboard Performance de Vendas e Promoções
+
+Dashboard estratégico desenvolvido em **Power BI** para análise do desempenho de vendas e do impacto das promoções nos resultados do negócio.
+
+Principais análises:
+- Faturamento total
+- Vendas com e sem promoção
+- Performance por categoria de produto
+- Comparativo de vendas por período
+
+🔗 Acesse o projeto:  
+[Dashboard Performance de Vendas e Promoções](./dashboard-performance-vendas-promocoes)
+
+---
+
 ## 📊 Power BI Sales Dashboard
 
 Dashboard estratégico desenvolvido em **Power BI** para análise de desempenho de vendas.
